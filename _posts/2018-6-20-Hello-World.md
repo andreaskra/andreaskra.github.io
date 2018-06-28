@@ -6,7 +6,7 @@ Since ancient times humans have dreamt of creating artificial, intelligent creat
 
 Later, the concept of artificial intelligence appeared in many more pieces of literature and has gained wide popularity in modern times with novels like Mary Shelley’s Frankenstein and many other, recent pop-culture-creations such as Terminator, 2001 - A Space Odyssey or Hitchhiker's Guide to the Galaxy.
 
-![Terminator]({{ https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Terminator_Exhibition_T-800_-_Menacing_looking_shoot.jpg/2560px-Terminator_Exhibition_T-800_-_Menacing_looking_shoot.jpg }})
+![Puppy]({{ https://wallpaperbrowse.com/media/images/3848765-wallpaper-images-download.jpg }})
 
 Intelligent machines have always been bound to people’s fantasy - a fact, however, that did not keep humans from exploring the inner workings of the mind and how to replicate it.
 Many different physical principles were thought causative for intelligence. Often, recent scientific discoveries were deemed the essential pieces of the puzzle. When the laws of mechanics were established, it was proposed that the mind would work in similar ways to gears and other mechanical parts. As electricity spread, so did it’s influence on literature at the time and the theories on how the mind works began to include and adapt to the new discovery. Finally, the micro transistor was invented and the exponential growth of computing power fuelled again the minds of creatives and scientists alike, promising that a key to artificial intelligence was just in reach.
