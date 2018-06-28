@@ -10,4 +10,4 @@ permalink: /about/
 
 ### Follow/Contact me
 
-https://twitter.com/andreas_kra
+![Twitter]({{ "https://twitter.com/andreas_kra" }})
