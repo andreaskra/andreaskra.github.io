@@ -2,7 +2,8 @@
 layout: post
 title: Neural Networks
 ---
-Since ancient times humans have dreamt of creating artificial, intelligent creations to serve and fight for them. Hephaestus’ robots helped him build a palace, his automatic dogs protected the palace of Alcinous and the goddess Venus brought Pygmalion’s ivory statue, Galatea, to life. 
+Since ancient times humans have dreamt of creating artificial, intelligent creations to serve and fight for them. Hephaestus’ robots helped him build a palace, his automatic dogs protected the palace of Alcinous and the goddess Venus brought Pygmalion’s ivory statue, Galatea, to life.
+
 Later, the concept of artificial intelligence appeared in many more pieces of literature and has gained wide popularity in modern times with novels like Mary Shelley’s Frankenstein and many other, recent pop-culture-creations such as Terminator, 2001 - A Space Odyssey or Hitchhiker's Guide to the Galaxy.
 
 ![Terminator]({{ https://fsmedia.imgix.net/03/72/08/32/3585/4bfb/a4b8/f7b8edb148e2/arnold-schwarzenegger-in-terminator-3-rise-of-the-machines.png?rect=202%2C0%2C2156%2C1078&dpr=2&auto=format%2Ccompress&w=650 }})
