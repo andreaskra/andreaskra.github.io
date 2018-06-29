@@ -29,5 +29,5 @@ I'll back up all my claims with sources or explain my reasoning whenever necessa
 
 ### Intelligence and why it is pretty good to have some
 
-When life first emerged on earth, either by riding a meteoroid[1]({{ "http://advances.sciencemag.org/content/4/1/eaao3521" }}), 
+When life first emerged on earth, either by riding a meteoroid [1]({{ "http://advances.sciencemag.org/content/4/1/eaao3521" }}), 
 
