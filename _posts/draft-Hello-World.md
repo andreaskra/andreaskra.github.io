@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Neural Networks & AI
+title: AI: Artificial Irrelevance
 ---
 
+how to insert a pic:
+![image]({{ "/images/img.jpg" }})
 
 Post structure:
 
 Intro: Eternal life or doom and extinction? Extremes of AI and the reality.
 
-Section I: Aside from the buzzwords, what IS AI actually?
+Section I: Enough with the buzzwords, what IS AI actually?
 What is AI & why is it a big deal?
 
 Section II: So, how is that supposed to extinct humans?
@@ -20,4 +22,3 @@ Neural network deep dive.
 Epilogue
 
 
-![image]({{ "/images/img.jpg" }})
