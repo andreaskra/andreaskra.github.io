@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-- Programmer, Engineer, mechenical engineering grad student
-- Morbidly curious about tech, science & all kinds of stuff
-- Def taking too much time to list 3 bullet points
+- Mechenical engineering grad student
+- Working in AI
+- Courious about a lot of stuff
 
-### Follow/Contact me
+### Contact
 
 [Twitter]({{ "https://twitter.com/andreas_kra" }})
